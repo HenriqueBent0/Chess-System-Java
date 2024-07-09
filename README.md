@@ -17,6 +17,7 @@ Este é um programa em Java que simula um jogo de xadrez via interface de linha 
 
 1. Certifique-se de ter o JDK (Java Development Kit) instalado na sua máquina.
 2. Abra o terminal Git Bash com o botão direito dentro da pasta "target/classes.
+3. Dentro do terminal escreva "java application/Program".
 
 ## Tela do sistema
 ![Chess](https://github.com/HenriqueBent0/Chess-System-Java/assets/166830118/10c543b1-54d5-466f-b024-a354e9efee51)
