@@ -1,0 +1,17 @@
+application\UI.class
+chess\ChessMatch.class
+chess\ChessPiece.class
+chess\ChessPosition.class
+chess\Color.class
+chesspiece\Queen.class
+chesspiece\Bishop.class
+boardgame\BoardException.class
+application\Program.class
+boardgame\Board.class
+chesspiece\Pawn.class
+boardgame\Position.class
+chesspiece\King.class
+chesspiece\Knight.class
+chess\ChessException.class
+chesspiece\Rook.class
+boardgame\Piece.class
